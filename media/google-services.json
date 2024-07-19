@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "920569275139",
+    "firebase_url": "https://nami-beauty-default-rtdb.firebaseio.com",
+    "project_id": "nami-beauty",
+    "storage_bucket": "nami-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920569275139:android:6d7ca0eb1f9e8216d4bf36",
+        "android_client_info": {
+          "package_name": "namibeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_H1DRvFS0guGcUvSRgRzUw1D8kRhSPCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
